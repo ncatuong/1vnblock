@@ -5,3 +5,6 @@
 ***A: Soooo, what's new in 1vnblock?***
 
 ***B: It's blocking mobile application security APIs like [Zimperium](https://zimperium.com/) or [BShield](https://www.bshield.io) and also it block bank web/API like MBBank or ZaloPay.***
+
+### ***Special thanks to:***
+* [zalofucker](https://github.com/zalofucker/) - hosts block Zalo for 1vnblock (Type-B)
